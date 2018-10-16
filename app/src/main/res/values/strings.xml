@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Micro Credit Mobile</string>
+    <string name="login_uname">Enter your username</string>
+    <string name="login_pass">Enter password</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!--String related to dashboard-->
+
+    <string name="login_name">You logged as</string>
+    <string name="payment_btn">Add Center Collection</string>
+    <string name="np_btn">Add Not Paid</string>
+    <string name="loan_btn">Request Loan</string>
+    <string name="setting_btn">Settings</string>
+    <string name="logot_btn">Logout</string>
+    <string name="printer_lbl">Printer Status</string>
+
+    <!--String related to paymentadd-->
+
+    <string name="select_center">Select centre and press Submit</string>
+    <string name="submit_btn">Submit</string>
+    <string name="process_btn">Process Payments</string>
+    <string name="pay_btn">Pay</string>
+    <string name="notpay_btn">Not Pay</string>
+    <string name="memberno_lbl">Member No</string>
+    <string name="centerday_lbl">Center Day</string>
+    <string name="contract_lbl">Contract No</string>
+    <string name="loanamount_lbl">Loan Amount</string>
+    <string name="center_lbl">Center</string>
+    <string name="installment_lbl">Intallment</string>
+    <string name="balance_lbl">Balance</string>
+    <string name="membername_lbl">Member Name</string>
+    <string name="arreas_lbl">Arrears</string>
+    <string name="idloan_lbl">Loan ID</string>
+    <string name="enterpayment_lbl">Paid Amount</string>
+    <string name="entermember_txt">Enter Member ID or NIC</string>
+
+    <!--String related to settings-->
+
+    <string name="connect_btn">Connect to printer</string>
+    <string name="disconnect_btn">Disconnect printer</string>
+    <string name="test_btn">Test Print</string>
+
+    <!--String related to Loan-->
+
+    <string name="request_btn">Request</string>
+
+</resources>
